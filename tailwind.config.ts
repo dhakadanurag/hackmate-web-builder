@@ -61,6 +61,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Custom hackmate colors
+				hackmate: {
+					purple: '#6E59A5',
+					'deep-purple': '#5E47A1',
+					'light-purple': '#9b87f5',
+					blue: '#0EA5E9',
+					'dark-blue': '#0A8AC9',
+					gray: '#8E9196',
+					'dark-gray': '#1A1F2C'
 				}
 			},
 			borderRadius: {
